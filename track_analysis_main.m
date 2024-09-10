@@ -1,5 +1,5 @@
 %% 
-% Lexy von Diezmann, 2023-2024. 
+% Lexy von Diezmann, 2023-2024. Released under the GNU GPL v3.
 
 fileSuffix = '_final'; % adjust manually
 currentTime = datetime('now','Format','yMMdd-HHmm');
