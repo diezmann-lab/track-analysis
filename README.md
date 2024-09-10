@@ -1,4 +1,4 @@
-A repository for code used to analyze single-molecule tracking data. This code goes from a .csv file including XYZT data, is refined using swift v. 0.4.3, and is then analyzed in MATLAB.
+A repository for code used to analyze single-molecule tracking data. This code goes from a .csv file including XYT data, is refined using swift v. 0.4.3, and is then analyzed in MATLAB.
 
 Pipeline:
 1. Export data
