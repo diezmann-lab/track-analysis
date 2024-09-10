@@ -1,3 +1,6 @@
+The initial commit of this code is the current version of code used in Lexy von Diezmann, Chloe Bristow, and Ofer Rog, "Diffusion within the synaptonemal complex can account for signal transduction along meiotic chromosomes,"
+https://www.biorxiv.org/content/10.1101/2024.05.22.595404v1 with minor edits for clarity.
+
 A repository for code used to analyze single-molecule tracking data. This code goes from a .csv file including XYT data, is refined using swift v. 0.4.3, and is then analyzed in MATLAB.
 
 Pipeline:
