@@ -1,19 +1,5 @@
 %% 
 % Lexy von Diezmann, 2023-2024. Released under the GNU GPL v3.
-%
-% This set of functions contains everything you need on the MATLAB side to process information 
-% from Vutara SRX output files. It works in concert with the Swift program (Endesfelder 
-% lab, using v0.43) to concatenate tracks.
-%  
-% Workflow:
-% 
-
-% See discussion e.g. in LvD and Rog JPCB 2021.
-%
-% This function
-
-% Otherwise, start by analyzing raw localizations in Swift using standard settings (load each time). 
-% Then, we will filter them here. Read in the csv:
 
 currentTime = datetime('now','Format','yMMdd-HHmm');
 
